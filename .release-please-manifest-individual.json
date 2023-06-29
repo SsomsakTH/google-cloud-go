@@ -7,7 +7,7 @@
   "logging": "1.7.0",
   "profiler": "0.3.1",
   "pubsub": "1.32.0",
-  "pubsublite": "1.8.1",
+  "pubsublite": "1.9.0",
   "spanner": "1.47.0",
   "storage": "1.31.0"
 }
