@@ -1,5 +1,12 @@
 # Changes
 
+## [1.47.1](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.47.0...spanner/v1.47.1) (2023-06-29)
+
+
+### Bug Fixes
+
+* **spanner:** REST query UpdateMask bug ([df52820](https://github.com/googleapis/google-cloud-go/commit/df52820b0e7721954809a8aa8700b93c5662dc9b))
+
 ## [1.47.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.46.0...spanner/v1.47.0) (2023-06-20)
 
 
